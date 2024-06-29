@@ -20,14 +20,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/vishalmishra632/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/vishalmishra632/VishalMishraCodePortfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/vishalmishra632/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/vishalmishra632/VishalMishraCodePortfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [vishalmishra632](https://github.com/vishalmishra632/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [vishalmishra632](https://github.com/vishalmishra632/VishalMishraCodePortfolio). Thanks!
 
 ## Built With
 
