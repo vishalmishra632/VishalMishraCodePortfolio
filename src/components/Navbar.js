@@ -94,7 +94,6 @@ function NavBar() {
 
             {/* <Nav.Item>
               <Nav.Link
-                href="https://soumyajitblogs.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
